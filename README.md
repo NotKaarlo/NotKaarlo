@@ -3,9 +3,7 @@
 
 <div align="center">
 
-![NotKaarlo's Github Stats](https://github-readme-stats.vercel.app/api?username=NotKaarlo&show_icons=true&line_height=45&theme=defult&include_all_commits=true)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s2z354j7562hqywailmy4ogil4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NotKaarlo&theme=tokyonight_duo)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
@@ -43,5 +41,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/NotKaarlo/State-of-San-Andreas)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/NotKaarlo/Kaarlos)
 </details>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s2z354j7562hqywailmy4ogil4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
