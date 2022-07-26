@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=282b30&height=200&width=100%&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=282b30&height=200&width=&section=header)
 <h1 align="center">Hi, Im Kaarlo's<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
