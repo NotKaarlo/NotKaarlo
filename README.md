@@ -11,17 +11,14 @@
 ![NotKaarlo's Github Stats](https://github-readme-stats.vercel.app/api?username=NotKaarlo&show_icons=true&line_height=45&theme=defult&include_all_commits=true)
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
-
-##
-
 <div align="center">
 
-### Glad to see you here!<img src="https://cdn3.emoji.gg/emojis/6606-verified.gif" width="20px"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=000000&center=true&lines=Thanks%2C+You+Are+Awesome;Glad+To+See+You+Here!)](https://git.io/typing-svg)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=notkaarlo.notkaarlo)
 </div>
+
+##
 
 <h3 align="center"> Tools & Abilities & Learning</h3>
 
