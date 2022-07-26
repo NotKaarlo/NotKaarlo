@@ -8,8 +8,6 @@
 
 </div>
 
-<img align="center" src="https://raw.githubusercontent.com/EdernClemente/TypeLighterJS/master/images/typelighter.gif">
-
 <div align="center">
 
 ### My Repositories
