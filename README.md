@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7289da&height=150&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=414a4c&height=150&section=header" width="100%"/>
 
 <h1 align="center">Hi, Im Kaarlo's<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
@@ -50,4 +50,4 @@
 <img height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=31s2z354j7562hqywailmy4ogil4&cover_image=true&theme=default&bar_color_cover=true" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7289da&height=150&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=414a4c&height=150&section=footer" width="100%"/>
