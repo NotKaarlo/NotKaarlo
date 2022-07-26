@@ -16,4 +16,6 @@
 <!-- ![visitors](https://badges.pufler.dev/visits/NotKaarlo/NotKaarlo)
 ![Visitor Count](https://profile-counter.glitch.me/NotKaarlo/count.svg) -->
 
-<script src ="TypeLighter/typelighter.min.js"></script>
+
+
+<script src ="https://cdn.jsdelivr.net/npm/typelighterjs/typelighter.min.js"></script>
