@@ -44,4 +44,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/NotKaarlo/State-of-San-Andreas)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/NotKaarlo/Kaarlos)
 </details>
 
+<p align="center">
+
+<img src="https://cdn.dribbble.com/users/70900/screenshots/2957833/programmers-day-banner.gif">
+</p>
+
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
