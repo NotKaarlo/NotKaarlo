@@ -16,5 +16,4 @@
 <!-- ![visitors](https://badges.pufler.dev/visits/NotKaarlo/NotKaarlo)
 ![Visitor Count](https://profile-counter.glitch.me/NotKaarlo/count.svg) -->
 
-
-<p><span class="typeWriter" data-checkVisible="true"  data-speed="2" data-text='["TEST1", "test"]'></span></p>
+<script src ="TypeLighter/typelighter.min.js"></script>
