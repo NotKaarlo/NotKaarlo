@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+<img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif">
 <h1 align="center">Hi, Im Kaarlo's<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
@@ -43,10 +43,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/NotKaarlo/State-of-San-Andreas)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/NotKaarlo/Kaarlos)
 </details>
-
-<p align="center">
-
-<img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif">
-</p>
 
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
