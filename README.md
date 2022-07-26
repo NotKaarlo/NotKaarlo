@@ -32,7 +32,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-
-
-
-
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
