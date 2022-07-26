@@ -12,10 +12,23 @@
 </p>
 
 ##
-### Glad to see you here!<img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="20px"> ![](https://visitor-badge.glitch.me/badge?page_id=notkaarlo.notkaarlo)
+
+<div align="center">
+
+### Glad to see you here!<img src="https://cdn3.emoji.gg/emojis/6606-verified.gif" width="20px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=notkaarlo.notkaarlo)
+</div>
 
 ### My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://cdn3.emoji.gg/emojis/6186-developer-bot.gif
+
+
+<details align="center">
+    <summary> <b> <samp> Most used languanges </samp></b></summary>
+    <samp>
+        <img align="middle"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwowks&hide_title=true&layout=compact" />
+    </samp>
+</details>
