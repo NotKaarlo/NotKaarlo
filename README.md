@@ -1,6 +1,4 @@
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
-
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 <h1 align="center">Hi, Im Kaarlo's<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
