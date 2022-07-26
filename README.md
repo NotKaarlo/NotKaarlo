@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg">
+![header](https://capsule-render.vercel.app/api?type=waving&color=282b30&height=200&width=100%&section=header)
 <h1 align="center">Hi, Im Kaarlo's<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
