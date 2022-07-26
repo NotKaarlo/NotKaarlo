@@ -1,4 +1,4 @@
-# [NotKaarlo's](https://github.com/NotKaarlo)
+## Hey 👋, I'm [NotKaarlo's](https://github.com/NotKaarlo)
 
 ![NotKaarlo's Github Stats](https://github-readme-stats.vercel.app/api?username=NotKaarlo&show_icons=true&hide_border=true)
 
