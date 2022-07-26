@@ -15,3 +15,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NotKaarlo)
 <!-- ![visitors](https://badges.pufler.dev/visits/NotKaarlo/NotKaarlo)
 ![Visitor Count](https://profile-counter.glitch.me/NotKaarlo/count.svg) -->
+
+
+<p><span class="typeWriter" data-checkVisible="true"  data-speed="2" data-text='["TEST1", "test"]'></span></p>
