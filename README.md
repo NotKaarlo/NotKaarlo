@@ -19,16 +19,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=notkaarlo.notkaarlo)
 </div>
 
-### My Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
+<details align="center">
+    <summary> <h3> Most Used Languanges </h3></summary>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkaarlo&layout=compact)](https://github.com/NotKaarlo)
+</details>
 
 <details align="center">
-    <summary> <b> <samp> Most used languanges </samp></b></summary>
-    <samp>
-        <img align="middle"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwowks&hide_title=true&layout=compact" />
-    </samp>
+    <summary> <h3> My Repositories </h3></summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+
+
+
+
+
