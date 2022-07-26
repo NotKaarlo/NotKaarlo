@@ -11,8 +11,8 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-
-
 ##
+### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=notkaarlo.notkaarlo)
+
 ### My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
