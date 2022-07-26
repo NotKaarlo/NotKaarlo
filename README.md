@@ -1,4 +1,3 @@
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s2z354j7562hqywailmy4ogil4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
