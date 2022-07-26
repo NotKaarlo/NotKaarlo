@@ -7,13 +7,12 @@
 ![NotKaarlo's Github Stats](https://github-readme-stats.vercel.app/api?username=NotKaarlo&show_icons=true&hide_border=true)
 </div>
 
-<div align="center">
-
-### My Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+
+
+
+##
+### My Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=State-of-San-Andreas)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notkaarlo&repo=Kaarlos)](https://github.com/anuraghazra/github-readme-stats)
