@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
-<h1 align="center">Hi There, I am Kaarlo's, Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+
+<h1 align="center">Hi There, Im Kaarlo's, Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
 
