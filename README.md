@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://cdn.dribbble.com/users/70900/screenshots/2957833/programmers-day-banner.gif">
+<img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif">
 </p>
 
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
